@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "124017373158",
+    "firebase_url": "https://auzy-aa536-default-rtdb.firebaseio.com",
+    "project_id": "auzy-aa536",
+    "storage_bucket": "auzy-aa536.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124017373158:android:5f4f39e4ad32720b19b027",
+        "android_client_info": {
+          "package_name": "com.auzy.tn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkp9UBMI5AHs73Ml7nXK2_HtExHrPB3Gg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124017373158:android:e7611e1e5b1849fc19b027",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkp9UBMI5AHs73Ml7nXK2_HtExHrPB3Gg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,117 @@
+[
+      {
+        "id": "1",
+        "value": "tunis",
+        "label": "Tunis"
+      },
+      {
+        "id": "2",
+        "value": "ariana",
+        "label": "Ariana"
+      },
+      {
+        "id": "3",
+        "value": "ben arous",
+        "label": "Ben Arous"
+      },
+      {
+        "id": "4",
+        "value": "manouba",
+        "label": "Manouba"
+      },
+      {
+        "id": "5",
+        "value": "nabeul",
+        "label": "Nabeul"
+      },
+      {
+        "id": "6",
+        "value": "zaghouan",
+        "label": "Zaghouan"
+      },
+      {
+        "id": "7",
+        "value": "bizerte",
+        "label": "Bizerte"
+      },
+      {
+        "id": "8",
+        "value": "beja",
+        "label": "Béja"
+      },
+      {
+        "id": "9",
+        "value": "jendouba",
+        "label": "Jendouba"
+      },
+      {
+        "id": "10",
+        "value": "kef",
+        "label": "Kef"
+      },
+      {
+        "id": "11",
+        "value": "siliana",
+        "label": "Siliana"
+      },
+      {
+        "id": "12",
+        "value": "sousse",
+        "label": "Sousse"
+      },
+      {
+        "id": "13",
+        "value": "monastir",
+        "label": "Monastir"
+      },
+      {
+        "id": "14",
+        "value": "mahdia",
+        "label": "Mahdia"
+      },
+      {
+        "id": "15",
+        "value": "sfax",
+        "label": "Sfax"
+      },
+      {
+        "id": "16",
+        "value": "kairouan",
+        "label": "Kairouan"
+      },
+      {
+        "id": "17",
+        "value": "kasserine",
+        "label": "Kasserine"
+      },
+      {
+        "id": "18",
+        "value": "sidi bouzid",
+        "label": "Sidi Bouzid"
+      },
+      {
+        "id": "19",
+        "value": "gabes",
+        "label": "Gabès"
+      },
+      {
+        "id": "20",
+        "value": "tatouine",
+        "label": "Tatouine"
+      },
+      {
+        "id": "21",
+        "value": "gafsa",
+        "label": "Gafsa"
+      },
+      {
+        "id": "22",
+        "value": "tozeur",
+        "label": "Tozeur"
+      },
+      {
+        "id": "23",
+        "value": "kebili",
+        "label": "Kebili"
+      }
+    ]

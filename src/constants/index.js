@@ -1,0 +1,1 @@
+export const BASE_URL = "https://54.38.191.60.traefik.me/api"
